@@ -7,7 +7,7 @@ The `solverdummies` are minimal working examples for using the preCICE Micro Man
 To run the Python solverdummies, run the following commands in the `examples/` directory in **two different terminals**:
 
 ```bash
-python macro-dummy.py
+python macro_dummy.py
 python python-dummy/run_micro_manager.py
 ```
 
